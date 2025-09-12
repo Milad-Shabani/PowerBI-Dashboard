@@ -6,7 +6,7 @@ Key features:
 
 Sales Overview → total sales, total orders, unique customers, average basket value.
 
-Customer Behavior → new vs. returning customers, repeat purchases, daily/weekly active users.
+Customer Behavior → new vs. returning customers, repeat purchases, daily/weekly active users
 
 Discount Analysis → sales split by product discount, coupon, voucher, and no discount.
 
@@ -71,5 +71,6 @@ Easy integration with forecasting outputs.
 Power BI dashboards are connected to the processed dataset (with derived columns like Discount Type).
 
 Forecasting results (from Python/R pipeline) are stored in FactForecast and visualized alongside actuals.
+
 
 All KPIs and dashboards are designed to be interactive and support drill-down analysis.
