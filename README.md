@@ -73,6 +73,7 @@ Power BI dashboards are connected to the processed dataset (with derived columns
 Forecasting results (from Python/R pipeline) are stored in FactForecast and visualized alongside actuals.
 
 
-All KPIs and dashboards are designed to be interactive and support drill-down analysis.
+All KPIs and dashboards are designed to be interactive and support drill-down analysis..
+
 
 
